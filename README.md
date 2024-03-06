@@ -1,9 +1,11 @@
 ## EX 2 Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
 
 ## AIM:
+
 To write a program to predict the marks scored by a student using the simple linear regression model.
 
 ## Equipments Required:
+
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
@@ -84,8 +86,44 @@ print("RMSE= ",rmse)
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
 
+## 1. df.head()
+
+![image](https://github.com/dhivyapriyar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119477552/f5a22ffc-4552-4c8e-9dd5-3822fe4b3585)
+
+## df.tail()
+
+![image](https://github.com/dhivyapriyar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119477552/ba378a1f-1f36-428b-8597-597860388a05)
+
+## 3. Array value of X
+
+![image](https://github.com/dhivyapriyar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119477552/5351eadb-22d1-4cd6-bb77-692176926c70)
+
+## 4. Array value of Y
+
+![image](https://github.com/dhivyapriyar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119477552/ede676aa-7c78-4475-b37c-1ec95830804b)
+
+## 5. Values of Y prediction
+
+![image](https://github.com/dhivyapriyar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119477552/4d4ede1e-bad6-4eaa-abbc-4314066c7e8f)
+
+
+## 6. Array values of Y test
+
+![image](https://github.com/dhivyapriyar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119477552/116d8299-db97-4420-9cc1-9db2211d6905)
+
+## 7. Training Set Graph
+
+![image](https://github.com/dhivyapriyar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119477552/374eee9a-d29a-4037-aadb-68a64162b7c4)
+
+## 8. TEST SET GRAPH
+
+![image](https://github.com/dhivyapriyar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119477552/3f7b093a-6a18-46f2-ac3d-9d4a55045751)
+
+## 9. Values of MSE, MAE and RMSE
+
+![image](https://github.com/dhivyapriyar/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119477552/96c9088e-b159-4c0d-b008-71c374961e44)
 
 ## Result:
+
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
